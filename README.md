@@ -26,3 +26,10 @@ Then open the local URL Streamlit prints (usually http://localhost:8501).
 
 ## Project details
 The dashboard is designed as an educational SI Lab project and presents results for the completed 2024 season. The dataset is embedded locally, so the app does not need to scrape a website at runtime.
+
+
+## 🚀 Live Demo
+
+[Open F1 Paddock Analytics](https://f1-paddock-analytics-g753ffmnqyedgxv7zx2f6e.streamlit.app)
+
+Explore 2024 Formula 1 driver standings, interactive visualizations, regression models, and Top 10 classification predictions.
